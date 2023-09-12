@@ -1,0 +1,26 @@
+# Data Structures and Algorithms Problems and Solutions
+
+Welcome to the Data Structures and Algorithms repository! This repository contains a collection of data structure and algorithm problems along with their solutions and explanations.
+
+## Introduction
+This repository is meant to help developers, students, and enthusiasts learn and practice data structures and algorithms. 
+It's organized by problem categories and includes explanations and code implementations.
+
+## Problem Categories
+
+Feel free to contribute solutions in your preferred language .
+
+## Contributing
+
+Contributions are welcome and encouraged! If you'd like to contribute to this repository, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your work: `git checkout -b feature/new-algorithm`
+3. Add your solution and explanation within the appropriate category.
+4. Ensure your code is well-documented and follows best practices.
+5. Test your code with various test cases.
+6. Create a Pull Request (PR) with a clear title and description.
+7. Await feedback and be prepared to make necessary changes.
+
+
+Happy coding and algorithm-solving!
