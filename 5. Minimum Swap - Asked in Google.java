@@ -1,5 +1,9 @@
 /* Given an array of size N and an input B . Find and return the minimum number of swaps to bring all the number less than or equal to B together
 " Asked By Google "
+
+			Problem Constraints
+					1 <= length of the array <= 100000
+					-109 <= A[i], B <= 109
 */
 
 import java.util.*;
