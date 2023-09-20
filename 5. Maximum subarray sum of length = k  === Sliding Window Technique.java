@@ -1,5 +1,10 @@
-// Given arr[N] elements . return Max subarrays sum of len=k  ===> Sliding Window Technique for optimisation 
+/* Given arr[N] elements . return Max subarrays sum of len=k  ===> Sliding Window Technique for optimisation 
 
+                    Problem Constraints
+                    1 <= N <= 105
+                    1 <= A[i] <= 106
+
+*/
 import java.util.*;
 import java.lang.*;
 import java.io.*;
