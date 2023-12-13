@@ -19,7 +19,7 @@ class Main {
     public static int leaderCount(int [] A ){   // Function to count the number of leaders in an integer array
         int count = 0 ;                        // Counter for leaders
         int max = A[0];                       // Initialize the maximum as the last element of the array
-        for(int i=1 ; i < A.length ; i++){     // Iterate through the array from right to left
+        for(int i=1 ; i < A.length ; i++){    
             if(A[i] > max){
                 max = A[i];  
                 count++ ;                  // The current element is a leader
